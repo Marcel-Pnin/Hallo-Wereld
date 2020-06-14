@@ -1,3 +1,3 @@
 # Hallo-Wereld
 Een verkennende repo
-Door een beginnenden GitHub-gebruiker
+Door een beginnende GitHub-gebruiker
